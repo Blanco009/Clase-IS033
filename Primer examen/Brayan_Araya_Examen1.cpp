@@ -5,7 +5,7 @@
 #define n 4
 int main()
 { 
-    system("cls");
+    system("cls");//limpia la terminal
     int matriz[m][n] = {{2, 3, -4, 6},
                         {-5, 1, 3, 4},
                         {1, -5, 7, 0},
